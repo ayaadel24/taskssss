@@ -1,0 +1,43 @@
+.container
+{
+  width: 90%;
+  padding: 20px 0px;
+  display: flex;
+}
+.owl-carousel .part1
+{
+  width:28%;
+}
+.owl-carousel .part1 img
+{
+width:250px;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.owl-carousel .part1 .heading h1
+{
+ font-size: 15px;
+ padding: 10px 0px;
+ font-weight: 700;
+ text-transform: capitalize;
+}
+.owl-carousel .part1 .heading h1 span
+{
+ font-size: 12px;
+text-transform: capitalize;
+}
+.owl-carousel .part1 .heading p
+{
+ font-size: 15px;
+text-transform: capitalize;
+}
+.owl-carousel .part1 .icons
+{
+display: flex;
+}
+.owl-carousel .part1 .icons img
+{
+width: 40px;
+object-fit: contain;
+}
